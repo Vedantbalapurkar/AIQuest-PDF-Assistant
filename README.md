@@ -20,7 +20,7 @@ AIQuest PDF Assistant is a Streamlit web application that empowers users to inte
 
 ### Prerequisites
 
-- Python 3.6+
+- Python 3.9+
 - Install dependencies using `pip install -r requirements.txt`
 - Obtain API key for Google Gemini Pro model and set it as an environment variable (`GOOGLE_API_KEY`).
 
