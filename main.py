@@ -12,8 +12,8 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-os.getenv("AIzaSyBlFlz8ZWICrubpTjO1dTTEVzEqI5Kv4AE")
-genai.configure(api_key=os.getenv("AIzaSyBlFlz8ZWICrubpTjO1dTTEVzEqI5Kv4AE"))
+os.getenv("AIzaSyC4GeofFYXnHxISEbFA_0JYsxNpO9lWW30")
+genai.configure(api_key=os.getenv("AIzaSyC4GeofFYXnHxISEbFA_0JYsxNpO9lWW30"))
 
 
 
